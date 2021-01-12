@@ -22,3 +22,5 @@ Dentro da pasta `/Project` execute o comando abaixo para rodar o projeto:
 npm start
 ```
 
+## Live preview
+https://5ffce558cf80441d61daca57--musing-ardinghelli-4ae61a.netlify.app/
